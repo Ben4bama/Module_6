@@ -1,0 +1,7 @@
+.example {font-style: italic; font-size: small; color: #F4C300;}
+
+#sec_1 {background-color: #1E6B52; width: 600px; color: white; visibility: hidden; position: absolute;}
+
+#sec_2 {background-color: #F4C300; width: 600px; color: #1E6B52; visibility: hidden; position: absolute;}
+
+#sec_3 {background-color: white; width: 600px; color: black; visibility: hidden; position: absolute;}
